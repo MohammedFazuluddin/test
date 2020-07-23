@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-23T05:43:36.650Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="TvCiNzYYsvVo6j_smIgT" version="13.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-23T05:45:31.396Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="TXzt9hFyL8WEOo3UBw3q" version="13.5.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1108" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,6 +32,11 @@
         <mxCell id="Luh2VQDBe7dsWh5IxZox-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Luh2VQDBe7dsWh5IxZox-6" target="Luh2VQDBe7dsWh5IxZox-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Luh2VQDBe7dsWh5IxZox-26" value="Inserting the data into DB" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Luh2VQDBe7dsWh5IxZox-19">
+          <mxGeometry x="-0.2235" y="-1" relative="1" as="geometry">
+            <mxPoint y="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Luh2VQDBe7dsWh5IxZox-6" value="Exception service" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="610" y="100" width="120" height="60" as="geometry" />
         </mxCell>
@@ -52,7 +57,7 @@
           <mxGeometry x="610" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Luh2VQDBe7dsWh5IxZox-10" value="RDS" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.rds;fillColor=#2E73B8;gradientColor=none;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="780" y="100" width="42" height="60.5" as="geometry" />
+          <mxGeometry x="780" y="230" width="42" height="60.5" as="geometry" />
         </mxCell>
         <mxCell id="Luh2VQDBe7dsWh5IxZox-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-essential-4/64/42-web_essential-128.png" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="309.5" width="20" height="20" as="geometry" />
@@ -69,7 +74,7 @@
             <mxPoint x="440" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Luh2VQDBe7dsWh5IxZox-24" value="Sending the create/upload&amp;nbsp;&lt;br&gt;information" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Luh2VQDBe7dsWh5IxZox-18">
+        <mxCell id="Luh2VQDBe7dsWh5IxZox-24" value="File create/upload&amp;nbsp;&lt;br&gt;information" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Luh2VQDBe7dsWh5IxZox-18">
           <mxGeometry x="-0.3875" y="-1" relative="1" as="geometry">
             <mxPoint x="31" y="-18.5" as="offset" />
           </mxGeometry>
