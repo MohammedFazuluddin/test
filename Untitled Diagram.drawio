@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-20T04:58:48.745Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="9ZA-QSXC6ri0q3bYm88y" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-20T05:00:54.393Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="mtC133AqtQRCEMv9ZJ9t" version="13.6.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1108" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="Luh2VQDBe7dsWh5IxZox-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Luh2VQDBe7dsWh5IxZox-2" target="Luh2VQDBe7dsWh5IxZox-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Luh2VQDBe7dsWh5IxZox-23" value="Saving the exception report" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Luh2VQDBe7dsWh5IxZox-8" vertex="1" connectable="0">
+        <mxCell id="Luh2VQDBe7dsWh5IxZox-23" value="Saving the exception report" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="Luh2VQDBe7dsWh5IxZox-8" vertex="1" connectable="0">
           <mxGeometry x="0.1982" y="-1" relative="1" as="geometry">
             <mxPoint x="4" y="19.5" as="offset" />
           </mxGeometry>
@@ -21,7 +21,7 @@
         <mxCell id="Luh2VQDBe7dsWh5IxZox-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Luh2VQDBe7dsWh5IxZox-2" target="Luh2VQDBe7dsWh5IxZox-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Luh2VQDBe7dsWh5IxZox-22" value="Getting the exception report JSON" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Luh2VQDBe7dsWh5IxZox-9" vertex="1" connectable="0">
+        <mxCell id="Luh2VQDBe7dsWh5IxZox-22" value="Getting the exception report JSON" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="Luh2VQDBe7dsWh5IxZox-9" vertex="1" connectable="0">
           <mxGeometry x="0.1084" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -32,9 +32,9 @@
         <mxCell id="Luh2VQDBe7dsWh5IxZox-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Luh2VQDBe7dsWh5IxZox-6" target="Luh2VQDBe7dsWh5IxZox-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Luh2VQDBe7dsWh5IxZox-26" value="Inserting the data into DB" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Luh2VQDBe7dsWh5IxZox-19" vertex="1" connectable="0">
+        <mxCell id="Luh2VQDBe7dsWh5IxZox-26" value="Inserting the data into DB" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="Luh2VQDBe7dsWh5IxZox-19" vertex="1" connectable="0">
           <mxGeometry x="-0.2235" y="-1" relative="1" as="geometry">
-            <mxPoint x="16" y="-8.5" as="offset" />
+            <mxPoint x="6" y="29" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Vy102mAb8OGQEsLuXzFT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Vy102mAb8OGQEsLuXzFT-1">
@@ -65,7 +65,7 @@
           <mxGeometry x="520" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Luh2VQDBe7dsWh5IxZox-10" value="RDS" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.rds;fillColor=#2E73B8;gradientColor=none;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="780" y="210" width="42" height="60.5" as="geometry" />
+          <mxGeometry x="770" y="300" width="42" height="60.5" as="geometry" />
         </mxCell>
         <mxCell id="Luh2VQDBe7dsWh5IxZox-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-essential-4/64/42-web_essential-128.png" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="187.5" y="390" width="20" height="20" as="geometry" />
@@ -82,7 +82,7 @@
             <mxPoint x="440" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Luh2VQDBe7dsWh5IxZox-24" value="File create/upload&amp;nbsp;&lt;br&gt;information" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Luh2VQDBe7dsWh5IxZox-18" vertex="1" connectable="0">
+        <mxCell id="Luh2VQDBe7dsWh5IxZox-24" value="File create/upload&amp;nbsp;&lt;br&gt;information" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="Luh2VQDBe7dsWh5IxZox-18" vertex="1" connectable="0">
           <mxGeometry x="-0.3875" y="-1" relative="1" as="geometry">
             <mxPoint x="46.99" y="-17.74" as="offset" />
           </mxGeometry>
@@ -93,12 +93,12 @@
         <mxCell id="Vy102mAb8OGQEsLuXzFT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vy102mAb8OGQEsLuXzFT-1" target="Luh2VQDBe7dsWh5IxZox-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Vy102mAb8OGQEsLuXzFT-3" value="Read / Updating of exception details" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vy102mAb8OGQEsLuXzFT-2">
+        <mxCell id="Vy102mAb8OGQEsLuXzFT-3" value="Read / Updating of exception details" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="Vy102mAb8OGQEsLuXzFT-2">
           <mxGeometry x="-0.3414" y="-2" relative="1" as="geometry">
             <mxPoint x="13.5" y="-10.8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vy102mAb8OGQEsLuXzFT-1" value="Toorak Web Application" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#45F3FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Vy102mAb8OGQEsLuXzFT-1" value="Toorak Web Application" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#45F3FF;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="51.25" y="70" width="117.5" height="117.5" as="geometry" />
         </mxCell>
       </root>
