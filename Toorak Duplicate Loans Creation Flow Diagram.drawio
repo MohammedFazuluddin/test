@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-26T12:54:53.874Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="7cqJfsuDQB3dv7kQFTqO" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-26T13:04:41.684Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="ZLmdwOrgwdIxTbo4pOkn" version="13.6.4" type="github">
   <diagram id="qH6c3s9MMgLRUwGL3_td" name="Page-1">
     <mxGraphModel dx="1477" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -41,11 +41,17 @@
         <mxCell id="ZVSDZQNDmMW8suPTSfCe-5" value="Different Originator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="220" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ZVSDZQNDmMW8suPTSfCe-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZVSDZQNDmMW8suPTSfCe-6" target="ZVSDZQNDmMW8suPTSfCe-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVSDZQNDmMW8suPTSfCe-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZVSDZQNDmMW8suPTSfCe-6" target="ZVSDZQNDmMW8suPTSfCe-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZVSDZQNDmMW8suPTSfCe-6" value="Same Originator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1170" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZVSDZQNDmMW8suPTSfCe-7" value="Different Originator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1630" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="2160" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZVSDZQNDmMW8suPTSfCe-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZVSDZQNDmMW8suPTSfCe-19" target="ZVSDZQNDmMW8suPTSfCe-20">
           <mxGeometry relative="1" as="geometry" />
@@ -56,11 +62,23 @@
         <mxCell id="ZVSDZQNDmMW8suPTSfCe-20" value="The property will not be added." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF6666;" vertex="1" parent="1">
           <mxGeometry x="980" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZVSDZQNDmMW8suPTSfCe-22" value="Same Originator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="520" width="120" height="60" as="geometry" />
+        <mxCell id="ZVSDZQNDmMW8suPTSfCe-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.478;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZVSDZQNDmMW8suPTSfCe-23" target="ZVSDZQNDmMW8suPTSfCe-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZVSDZQNDmMW8suPTSfCe-23" value="&lt;div&gt;There is an existing loan with matching&lt;/div&gt;&lt;div&gt;- same number of properties&lt;/div&gt;&lt;div&gt;- all the address&lt;/div&gt;&lt;div&gt;- Originator loan id&lt;/div&gt;&lt;div&gt;The existing loan is NOT in the same stage or status is NOT Approved.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="370" width="240" height="90" as="geometry" />
+          <mxGeometry x="1220" y="360" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVSDZQNDmMW8suPTSfCe-24" value="&lt;div&gt;Originator is shown a warning&amp;nbsp;&lt;/div&gt;&lt;div&gt;Yes- The property will be added and the loan will be tagged as a duplicate in the UI both in loan listing and in loan details.&lt;/div&gt;&lt;div&gt;The duplicate tag should be removed if the duplicate property is removed.&lt;/div&gt;&lt;div&gt;The Originator &amp;amp; LAT can see the duplicate loan numbers by clicking on the info icons in the tags.&lt;/div&gt;&lt;div&gt;Originator cannot submit the loan unless they resolve the duplicate property.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="520" width="335" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVSDZQNDmMW8suPTSfCe-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZVSDZQNDmMW8suPTSfCe-28" target="ZVSDZQNDmMW8suPTSfCe-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVSDZQNDmMW8suPTSfCe-28" value="&lt;div&gt;There is an existing loan with matching&lt;/div&gt;&lt;div&gt;- Different number of properties&lt;/div&gt;&lt;div&gt;- all the address&lt;/div&gt;&lt;div&gt;- Originator loan id&lt;/div&gt;&lt;div&gt;The existing loan is NOT in the same stage or status is NOT Approved.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="360" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVSDZQNDmMW8suPTSfCe-29" value="&lt;div&gt;Originator is shown a warning&amp;nbsp;&lt;/div&gt;&lt;div&gt;Yes- The property will be added and the loan will be tagged as a duplicate in the UI both in loan listing and in loan details.&lt;/div&gt;&lt;div&gt;The duplicate tag should be removed if the duplicate property is removed.&lt;/div&gt;&lt;div&gt;The Originator &amp;amp; LAT can see the duplicate loan numbers by clicking on the info icons in the tags.&lt;/div&gt;&lt;div&gt;Originator cannot submit the loan unless they resolve the duplicate property.&lt;/div&gt;&lt;div&gt;LAT will be emailed the link of all the loans that are duplicate.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="520" width="360" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
