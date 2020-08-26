@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-26T12:15:09.852Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="C8oYlFiaVGras3ckBNtc" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-26T12:15:20.312Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="JOksHR32UbqIz7SiaZes" version="13.6.4" type="github">
   <diagram id="qH6c3s9MMgLRUwGL3_td" name="Page-1">
     <mxGraphModel dx="2216" dy="982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
           <mxGeometry x="1310" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZVSDZQNDmMW8suPTSfCe-19" value="&lt;div&gt;There is an existing loan with matching&lt;/div&gt;&lt;div&gt;- number of properties&lt;/div&gt;&lt;div&gt;- all the address&lt;/div&gt;&lt;div&gt;- Originator loan id&lt;/div&gt;&lt;div&gt;The existing loan is in the same stage and status is Approved.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="360" width="240" height="150" as="geometry" />
+          <mxGeometry x="810" y="360" width="240" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
