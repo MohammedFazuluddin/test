@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-26T14:29:44.849Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="3dsZt9P5WaaAthguZEI8" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-26T14:31:33.149Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="d-k-KobaGjYCMZ3siEiw" version="13.6.4" type="github">
   <diagram id="qH6c3s9MMgLRUwGL3_td" name="Page-1">
-    <mxGraphModel dx="3066" dy="982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3066" dy="2082" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZVSDZQNDmMW8suPTSfCe-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="40" width="80" height="80" as="geometry" />
+          <mxGeometry x="1200" y="-60" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZVSDZQNDmMW8suPTSfCe-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZVSDZQNDmMW8suPTSfCe-2" target="ZVSDZQNDmMW8suPTSfCe-4">
           <mxGeometry relative="1" as="geometry" />
@@ -22,18 +22,15 @@
         <mxCell id="ZVSDZQNDmMW8suPTSfCe-2" value="Loan creation through Excel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZVSDZQNDmMW8suPTSfCe-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZVSDZQNDmMW8suPTSfCe-6">
+        <mxCell id="ZVSDZQNDmMW8suPTSfCe-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZVSDZQNDmMW8suPTSfCe-3" target="ZVSDZQNDmMW8suPTSfCe-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1870" y="160" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZVSDZQNDmMW8suPTSfCe-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZVSDZQNDmMW8suPTSfCe-7">
+        <mxCell id="ZVSDZQNDmMW8suPTSfCe-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZVSDZQNDmMW8suPTSfCe-3" target="ZVSDZQNDmMW8suPTSfCe-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1990" y="160" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ZVSDZQNDmMW8suPTSfCe-3" value="&lt;span&gt;Manual loan creation&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1870" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZVSDZQNDmMW8suPTSfCe-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZVSDZQNDmMW8suPTSfCe-4" target="ZVSDZQNDmMW8suPTSfCe-48">
           <mxGeometry relative="1" as="geometry" />
@@ -154,6 +151,9 @@
         </mxCell>
         <mxCell id="ZVSDZQNDmMW8suPTSfCe-68" value="&lt;div&gt;No warning&lt;span&gt;	&lt;/span&gt;&lt;/div&gt;&lt;div&gt;The duplicate loan will be added.&lt;/div&gt;&lt;div&gt;LAT can see the duplicate tag in the UI also. Originator should not see the tags.&lt;/div&gt;&lt;div&gt;Originator can submit the loan.&lt;/div&gt;&lt;div&gt;LAT will be emailed the link of all the loans that are duplicate and loan from a different originator.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2770" y="350" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVSDZQNDmMW8suPTSfCe-3" value="&lt;span&gt;Manual loan creation&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2210" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
