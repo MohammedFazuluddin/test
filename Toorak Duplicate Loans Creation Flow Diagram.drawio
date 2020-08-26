@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-26T14:28:01.015Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="Ts48oTSKTRgBSNocOOOn" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-26T14:29:13.487Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="0L175BkVezgIiNymOcjT" version="13.6.4" type="github">
   <diagram id="qH6c3s9MMgLRUwGL3_td" name="Page-1">
     <mxGraphModel dx="3066" dy="982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -70,6 +70,9 @@
         </mxCell>
         <mxCell id="ZVSDZQNDmMW8suPTSfCe-6" value="Same Originator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1670" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVSDZQNDmMW8suPTSfCe-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZVSDZQNDmMW8suPTSfCe-7" target="ZVSDZQNDmMW8suPTSfCe-68">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZVSDZQNDmMW8suPTSfCe-7" value="Different Originator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2850" y="220" width="120" height="60" as="geometry" />
@@ -148,6 +151,9 @@
         </mxCell>
         <mxCell id="ZVSDZQNDmMW8suPTSfCe-66" value="&lt;div&gt;No warning&lt;span&gt;	&lt;/span&gt;&lt;/div&gt;&lt;div&gt;The duplicate loan will be added.&lt;/div&gt;&lt;div&gt;LAT can see the duplicate tag in the UI also. Originator should not see the tags.&lt;/div&gt;&lt;div&gt;Originator can submit the loan.&lt;/div&gt;&lt;div&gt;LAT will be emailed the link of all the loans that are duplicate and loan from a different originator.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="420" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVSDZQNDmMW8suPTSfCe-68" value="&lt;div&gt;No warning&lt;span&gt;	&lt;/span&gt;&lt;/div&gt;&lt;div&gt;The duplicate loan will be added.&lt;/div&gt;&lt;div&gt;LAT can see the duplicate tag in the UI also. Originator should not see the tags.&lt;/div&gt;&lt;div&gt;Originator can submit the loan.&lt;/div&gt;&lt;div&gt;LAT will be emailed the link of all the loans that are duplicate and loan from a different originator.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2770" y="350" width="280" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
