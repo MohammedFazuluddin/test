@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-27T08:09:24.815Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="3sAgs7CzvFQwAh9c4Ibm" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-27T09:34:56.541Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="vHO2Xoos1TqGBlpJzkJW" version="13.6.5" type="github">
   <diagram id="qH6c3s9MMgLRUwGL3_td" name="Page-1">
-    <mxGraphModel dx="5266" dy="1920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3058" dy="960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -191,10 +191,10 @@
         <mxCell id="ZVSDZQNDmMW8suPTSfCe-58" value="The property will not be added." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF6666;fontStyle=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="447.5" y="1855" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZVSDZQNDmMW8suPTSfCe-66" value="&lt;div&gt;No warning&lt;span&gt; &lt;/span&gt;&lt;/div&gt;&lt;div&gt;The duplicate loan will be added.&lt;/div&gt;&lt;div&gt;LAT can see the duplicate tag in the UI also. Originator should not see the tags.&lt;/div&gt;&lt;div&gt;Originator can submit the loan.&lt;/div&gt;&lt;div&gt;LAT will be emailed the link of all the loans that are duplicate and loan from a different originator.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="ZVSDZQNDmMW8suPTSfCe-66" value="&lt;div&gt;No warning&lt;span&gt; &lt;/span&gt;&lt;/div&gt;&lt;div&gt;The duplicate loan will be added.&lt;/div&gt;&lt;div&gt;LAT can see the duplicate tag in the UI also. Originator should not see the tags.&lt;/div&gt;&lt;div&gt;Originator can submit the loan.&lt;/div&gt;&lt;div&gt;LAT will be emailed the link of all the loans that are duplicate and loan from a different originator.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;shadow=1;fillColor=#99FF33;" parent="1" vertex="1">
           <mxGeometry x="22.5" y="1160" width="280" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ZVSDZQNDmMW8suPTSfCe-68" value="&lt;div&gt;No warning&lt;span&gt; &lt;/span&gt;&lt;/div&gt;&lt;div&gt;The duplicate loan will be added.&lt;/div&gt;&lt;div&gt;LAT can see the duplicate tag in the UI also. Originator should not see the tags.&lt;/div&gt;&lt;div&gt;Originator can submit the loan.&lt;/div&gt;&lt;div&gt;LAT will be emailed the link of all the loans that are duplicate and loan from a different originator.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="ZVSDZQNDmMW8suPTSfCe-68" value="&lt;div&gt;No warning&lt;span&gt; &lt;/span&gt;&lt;/div&gt;&lt;div&gt;The duplicate loan will be added.&lt;/div&gt;&lt;div&gt;LAT can see the duplicate tag in the UI also. Originator should not see the tags.&lt;/div&gt;&lt;div&gt;Originator can submit the loan.&lt;/div&gt;&lt;div&gt;LAT will be emailed the link of all the loans that are duplicate and loan from a different originator.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;shadow=1;fillColor=#00FF00;" parent="1" vertex="1">
           <mxGeometry x="20" y="280" width="280" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZVSDZQNDmMW8suPTSfCe-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=1;" parent="1" source="ZVSDZQNDmMW8suPTSfCe-3" target="ZVSDZQNDmMW8suPTSfCe-7" edge="1">
