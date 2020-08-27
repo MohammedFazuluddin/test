@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-27T09:39:27.591Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="MN1R50jlj1a7iQVckAGT" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-27T10:05:30.152Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="HxyBBfRvkURaPQJcUm2B" version="13.6.5" type="github">
   <diagram id="qH6c3s9MMgLRUwGL3_td" name="Page-1">
     <mxGraphModel dx="2322" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -152,7 +152,7 @@
         <mxCell id="ZVSDZQNDmMW8suPTSfCe-31" value="&amp;nbsp;Originator tries to submit a loan with duplicate address and originator loan id" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="525" width="240" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ZVSDZQNDmMW8suPTSfCe-32" value="The property will not be added." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF6666;fontStyle=1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="ZVSDZQNDmMW8suPTSfCe-32" value="The loan is not submitted." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF6666;fontStyle=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZVSDZQNDmMW8suPTSfCe-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=1;" parent="1" source="ZVSDZQNDmMW8suPTSfCe-48" target="ZVSDZQNDmMW8suPTSfCe-49" edge="1">
