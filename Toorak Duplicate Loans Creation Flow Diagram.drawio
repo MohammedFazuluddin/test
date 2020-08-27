@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-27T10:05:30.152Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="HxyBBfRvkURaPQJcUm2B" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-27T10:07:21.956Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="VeI8eHoO1mhErasCspt0" version="13.6.5" type="github">
   <diagram id="qH6c3s9MMgLRUwGL3_td" name="Page-1">
     <mxGraphModel dx="2322" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -188,7 +188,7 @@
         <mxCell id="ZVSDZQNDmMW8suPTSfCe-57" value="&amp;nbsp;Originator tries to submit a loan with duplicate address and originator loan id" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="22.5" y="1840" width="240" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ZVSDZQNDmMW8suPTSfCe-58" value="The property will not be added." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF6666;fontStyle=1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="ZVSDZQNDmMW8suPTSfCe-58" value="None of the loans are submitted." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF6666;fontStyle=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="447.5" y="1855" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZVSDZQNDmMW8suPTSfCe-66" value="&lt;div&gt;No warning&lt;span&gt; &lt;/span&gt;&lt;/div&gt;&lt;div&gt;The duplicate loan will be added.&lt;/div&gt;&lt;div&gt;LAT can see the duplicate tag in the UI also. Originator should not see the tags.&lt;/div&gt;&lt;div&gt;Originator can submit the loan.&lt;/div&gt;&lt;div&gt;LAT will be emailed the link of all the loans that are duplicate and loan from a different originator.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;shadow=1;fillColor=#99FF33;" parent="1" vertex="1">
