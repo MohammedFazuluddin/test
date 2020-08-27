@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-27T09:36:01.900Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="NGOe3tKmcZXSzJDByThI" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-27T09:38:23.645Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="5h1rDEg-hYch_kdWP6To" version="13.6.5" type="github">
   <diagram id="qH6c3s9MMgLRUwGL3_td" name="Page-1">
     <mxGraphModel dx="2322" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -131,7 +131,7 @@
         <mxCell id="Y5H-Db6mOPBbh7kAJmND-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZVSDZQNDmMW8suPTSfCe-23" target="ZVSDZQNDmMW8suPTSfCe-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZVSDZQNDmMW8suPTSfCe-23" value="&lt;div&gt;There is an existing loan with matching&lt;/div&gt;&lt;div&gt;- same number of properties&lt;/div&gt;&lt;div&gt;- all the address&lt;/div&gt;&lt;div&gt;- Originator loan id&lt;/div&gt;&lt;div&gt;The existing loan is NOT in the same stage or status is NOT Approved.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="ZVSDZQNDmMW8suPTSfCe-23" value="&lt;div&gt;There is an existing loan with matching&lt;/div&gt;&lt;div&gt;same number of properties&lt;/div&gt;&lt;div&gt;all the address&lt;/div&gt;&lt;div&gt;Originator loan id&lt;/div&gt;&lt;div&gt;The existing loan is NOT in the same stage or status is NOT Approved.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="865" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ZVSDZQNDmMW8suPTSfCe-24" value="&lt;div&gt;Originator is shown a warning&amp;nbsp;&lt;/div&gt;&lt;div&gt;The property will be added and the loan will be tagged as a duplicate in the UI both in loan listing and in loan details.&lt;/div&gt;&lt;div&gt;The duplicate tag should be removed if the duplicate property is removed.&lt;/div&gt;&lt;div&gt;The Originator &amp;amp; LAT can see the duplicate loan numbers by clicking on the info icons in the tags.&lt;/div&gt;&lt;div&gt;Originator cannot submit the loan unless they resolve the duplicate property.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;shadow=1;" parent="1" vertex="1">
